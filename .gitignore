@@ -1,0 +1,36 @@
+# Mac OS Files
+*.DS_Store
+
+# IntelliJ/IDEA metadata files.
+.idea/
+.idea.bak/
+*.iml
+
+.ropeproject/
+
+# Log files.
+logs/*
+
+# Egg information files.
+*egg-info/
+
+# Build files.
+out/*
+build/
+docs/build
+dist/
+.pyenv/
+.env_var
+__pycache__/
+
+# Cached/compiled python scripts.
+*.pyc
+
+# Vagrant metadata files.
+.vagrant
+
+# Test files.
+cover/
+.coverage
+coverage.xml
+nosetests.xml
